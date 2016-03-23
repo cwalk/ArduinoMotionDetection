@@ -9,3 +9,7 @@ Download the repository: `git clone https://github.com/cwalk/ArduinoMotionDetect
 Navigate into the project directory: `cd ArduinoMotionDetection/`
 
 Open either Arduino project, and then verify/upload the project to your Arduino.
+
+## Circuit Diagram
+
+![Circuit Diagram](/ArduinoMotionDetection.png?raw=true "Circuit Diagram")
