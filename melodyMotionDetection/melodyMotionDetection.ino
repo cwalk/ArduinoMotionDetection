@@ -5,7 +5,7 @@
 #include "pitches.h"
 
 int ledPin = 13;
-int pirPin = 8;
+int pirPin = 3;
 
 // notes in the melody:
 int melody[] = {
